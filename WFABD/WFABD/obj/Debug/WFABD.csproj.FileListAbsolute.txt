@@ -1,0 +1,10 @@
+C:\Users\Luf3r\source\repos\WFABD\WFABD\bin\Debug\WFABD.exe.config
+C:\Users\Luf3r\source\repos\WFABD\WFABD\bin\Debug\WFABD.exe
+C:\Users\Luf3r\source\repos\WFABD\WFABD\bin\Debug\WFABD.pdb
+C:\Users\Luf3r\source\repos\WFABD\WFABD\obj\Debug\WFABD.csprojAssemblyReference.cache
+C:\Users\Luf3r\source\repos\WFABD\WFABD\obj\Debug\WFABD.Form1.resources
+C:\Users\Luf3r\source\repos\WFABD\WFABD\obj\Debug\WFABD.Properties.Resources.resources
+C:\Users\Luf3r\source\repos\WFABD\WFABD\obj\Debug\WFABD.csproj.GenerateResource.cache
+C:\Users\Luf3r\source\repos\WFABD\WFABD\obj\Debug\WFABD.csproj.CoreCompileInputs.cache
+C:\Users\Luf3r\source\repos\WFABD\WFABD\obj\Debug\WFABD.exe
+C:\Users\Luf3r\source\repos\WFABD\WFABD\obj\Debug\WFABD.pdb
